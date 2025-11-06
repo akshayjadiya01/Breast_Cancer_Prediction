@@ -63,7 +63,7 @@ The model has been trained on the **Kaggle Breast Cancer Diagnostic Dataset**, a
 ```bash
 Breast-Cancer-Prediction/
 │
-├── breast_cancer_model.pkl        # Trained Logistic Regression model
+├── breast_cancer_model.pkl          # Trained Logistic Regression model
 ├── scaler.pkl                       # Scaler for input normalization
 ├── app.py                           # Streamlit web app
 ├── breast_cancer_data.csv           # Dataset (optional for local testing)
