@@ -1,10 +1,16 @@
 # 🩷 **Breast Cancer Prediction using Machine Learning** 🧠  
 *An intelligent and interpretable ML web app for early breast cancer detection.*
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+## 🌐 **Live Demo**
+👉 [**Click here to use the Breast Cancer Prediction App**]([https://breast-cancer-prediction-akshayjadiya.streamlit.app/](https://breastcancerprediction-ydz3dsaev3wb87pqdmy3sf.streamlit.app)) 🚀  
+*(Hosted on Streamlit Cloud)*
 
 ---
 
@@ -45,6 +51,7 @@ The model has been trained on the **Kaggle Breast Cancer Diagnostic Dataset**, a
 | 🧮 **NumPy** | Numerical operations |
 | 🧾 **Pandas** | Data handling & preprocessing |
 | 💾 **Joblib** | Model & scaler serialization |
+| 📊 **Plotly / Matplotlib / Seaborn** | Data visualization & insights |
 
 ---
 
@@ -69,5 +76,3 @@ Breast-Cancer-Prediction/
 ├── breast_cancer_data.csv           # Dataset (optional for local testing)
 ├── requirements.txt                 # Dependencies
 └── README.md                        # Project documentation
-
-
