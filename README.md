@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 **Live Demo**
-👉 [**Click here to use the Breast Cancer Prediction App**][https://breast-cancer-prediction-akshayjadiya.streamlit.app/](https://breastcancerprediction-ydz3dsaev3wb87pqdmy3sf.streamlit.app) 🚀  
+👉 [**Click here to use the Breast Cancer Prediction App**](https://breastcancerprediction-ydz3dsaev3wb87pqdmy3sf.streamlit.app) 🚀  
 *(Hosted on Streamlit Cloud)*
 
 ---
